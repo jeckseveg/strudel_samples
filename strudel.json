@@ -1,5 +1,9 @@
 {
-  "vocals": [
-    "ridin_through_my_city.mp3"
+  "ridin_through_my_city": [
+    "ridin_through_my_city/ridin_through_my_city_1.wav",
+    "ridin_through_my_city/ridin_through_my_city_2.wav",
+    "ridin_through_my_city/ridin_through_my_city_3.wav",
+    "ridin_through_my_city/ridin_through_my_city_4.wav",
+    "ridin_through_my_city/ridin_through_my_city_5.wav"
   ]
 }
